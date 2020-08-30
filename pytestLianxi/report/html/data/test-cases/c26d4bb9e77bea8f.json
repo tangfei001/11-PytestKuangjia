@@ -1,0 +1,114 @@
+{
+  "uid" : "c26d4bb9e77bea8f",
+  "name" : "test_003",
+  "fullName" : "test_login_html.TestLogin#test_003",
+  "historyId" : "50ba7917f2f9dab2e67b45b18c973a80",
+  "time" : {
+    "start" : 1598409817150,
+    "stop" : 1598409817150,
+    "duration" : 0
+  },
+  "description" : "第三个测试用例",
+  "descriptionHtml" : "<p>第三个测试用例</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1 is '1'",
+  "statusTrace" : "E   AssertionError: assert 1 is '1'",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1598409817140,
+      "stop" : 1598409817140,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1598409817140,
+      "stop" : 1598409817140,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "sensitive_url",
+    "time" : {
+      "start" : 1598409817140,
+      "stop" : 1598409817140,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_skip_sensitive",
+    "time" : {
+      "start" : 1598409817149,
+      "stop" : 1598409817149,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_login_html"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-O3VG549U"
+  }, {
+    "name" : "thread",
+    "value" : "3952-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login_html"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c26d4bb9e77bea8f.json",
+  "parameterValues" : [ ]
+}

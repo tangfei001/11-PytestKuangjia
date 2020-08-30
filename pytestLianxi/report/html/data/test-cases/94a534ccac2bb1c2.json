@@ -1,0 +1,155 @@
+{
+  "uid" : "94a534ccac2bb1c2",
+  "name" : "test_002",
+  "fullName" : "test_login_html.TestLogin#test_002",
+  "historyId" : "6f91750a270fd626e1883adedfd2560b",
+  "time" : {
+    "start" : 1598415561027,
+    "stop" : 1598415561027,
+    "duration" : 0
+  },
+  "description" : "第二个测试用例",
+  "descriptionHtml" : "<p>第二个测试用例</p>\n",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1598415561020,
+      "stop" : 1598415561020,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "sensitive_url",
+    "time" : {
+      "start" : 1598415561020,
+      "stop" : 1598415561020,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1598415561020,
+      "stop" : 1598415561020,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_skip_sensitive",
+    "time" : {
+      "start" : 1598415561026,
+      "stop" : 1598415561027,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_login_html"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-O3VG549U"
+  }, {
+    "name" : "thread",
+    "value" : "3632-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login_html"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "151395c3614b2596",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598411845989,
+        "stop" : 1598411845990,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3b7eaf4e247508ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598410959056,
+        "stop" : 1598410959056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d94bca3b03ae90db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598409817145,
+        "stop" : 1598409817146,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "25a19aa1d91bc6fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598409719395,
+        "stop" : 1598409719395,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "197657b5aa057fd9",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'tangfei' in 'wuya'",
+      "time" : {
+        "start" : 1598409647772,
+        "stop" : 1598409647772,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94a534ccac2bb1c2.json",
+  "parameterValues" : [ ]
+}

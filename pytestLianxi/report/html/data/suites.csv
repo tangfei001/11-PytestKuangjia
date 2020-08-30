@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"failed","test_login_html.TestLogin#test_003","0","第三个测试用例"
+"failed","test_login_html#test_004","0","第四个测试用例"
+"passed","test_login_html.TestLogin#test_002","0","第二个测试用例"
+"passed","test_login_html#test_001","0","第一个测试用例"
